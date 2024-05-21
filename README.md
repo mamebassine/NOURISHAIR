@@ -1,5 +1,3 @@
-
-
 Guide de Création de Site Web avec WordPress, Elementor et Pantheon.io
 Installation des Outils
 Installation de WordPress :
